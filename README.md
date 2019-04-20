@@ -1,3 +1,5 @@
+# **REMMA**
+
 A Rapid Epistatic Mixed-model Association Analysis by Linear Retransformations of Genomic Estimated Values
 
 Please refer to the user manual in the package for detail.
