@@ -1,3 +1,6 @@
+#!!!Note: Please refer to GMAT (https://github.com/chaoning/GMAT) for latest version. This repository will be destroyed in the future.
+
+
 # **REMMA**
 
 A Rapid Epistatic Mixed-model Association Analysis by Linear Retransformations of Genomic Estimated Values
