@@ -1,4 +1,4 @@
-#!!!Note: Please refer to GMAT (https://github.com/chaoning/GMAT) for latest version. This repository will be destroyed in the future.
+# Note: Please refer to GMAT (https://github.com/chaoning/GMAT) for latest version. This repository will be destroyed in the future.
 
 
 # **REMMA**
